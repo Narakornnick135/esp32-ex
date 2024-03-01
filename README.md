@@ -9,6 +9,8 @@
 ### ตัวอย่าง README พื้นฐาน
 
 ```markdown
+
+```
 # ชื่อโปรเจกต์
 
 ## บทนำ
@@ -28,14 +30,14 @@
 ```javascript
 // นี่คือ block code สำหรับ JavaScript
 console.log('Hello, world!');
-
+```
 
 ใช้ `inline code` สำหรับข้อความภายในบรรทัด.
 
 ```javascript
 // นี่คือ block code สำหรับ JavaScript
 console.log('Hello, world!');
-
+```
 
 
 

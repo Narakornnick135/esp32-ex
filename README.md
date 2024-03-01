@@ -41,3 +41,6 @@ console.log('Hello, world!');
 
 
 
+![This is an image](https://example.com/path/to/image.jpg)
+
+![Alt text](/path/to/image.jpg)

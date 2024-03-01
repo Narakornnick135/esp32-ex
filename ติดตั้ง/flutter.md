@@ -18,7 +18,7 @@ https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flu
 ## ตั้งค่าสำหรับ Windows
 
 ค้นหาคำว่า Edit environment variables for your account
- ![Alt text](/img/win1.jpg)
+ ![Alt text](https://github.com/Narakornnick135/esp32-ex/blob/main/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87/img/win1.jpg)
 
 ตั้งค่า Path ให้เกิดเพิ่ม Path C:\scr\flutter\bin
  

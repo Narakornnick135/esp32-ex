@@ -18,10 +18,13 @@ https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flu
 ## ตั้งค่าสำหรับ Windows
 
 ค้นหาคำว่า Edit environment variables for your account
- ![Alt text](https://github.com/Narakornnick135/esp32-ex/blob/main/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87/img/win1.jpg)
+
+ ![windows](https://blog.intception.me/assets/img/02.9238577f.png)
+
 
 ตั้งค่า Path ให้เกิดเพิ่ม Path C:\scr\flutter\bin
- 
+
+ ![windows](https://blog.intception.me/assets/img/04.9abceabf.png)
  
 ติดตั้ง Flutter
 กลับเข้าไปที่ C:\scr\flutter จะเห็นไฟล์ flutter_console.bat ให้เปิดไฟล์ดังกล่าวจะเห็น CMD ให้พิมพ์ flutter doctor

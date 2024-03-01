@@ -3,7 +3,7 @@
 
 
 **สามารถติดตั้งเครื่องมือต่างๆตามนี้** 
-- [ติดตั้ง VS Code และ PlatformIO](https://github.com/Narakornnick135/esp32-ex/blob/main/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87/platformIO.md "ติดตั้ง VS Code และ PlatformIO")
+- [ติดตั้ง VS Code และ PlatformIO](ติดตั้ง/flutter.md "ติดตั้ง VS Code และ PlatformIO")
 - ฟีเจอร์ที่ 2
 
 

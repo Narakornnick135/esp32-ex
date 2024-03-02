@@ -1,9 +1,11 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "YOUR_SSID"; // ชื่อ WiFi
-const char* password = "YOUR_PASSWORD"; // รหัสผ่าน WiFi
-const char* mqtt_server = "broker.hivemq.com"; // ที่อยู่ MQTT broker
+const char* ssid = "5TH MEETING 03 (2.4G)"; // ชื่อ WiFi
+const char* password = ""; // รหัสผ่าน WiFi
+const char* mqtt_server = "smartgrid.cmru.ac.th"; // ที่อยู่ MQTT broker
+const char* mqtt_user = "test";
+const char* mqtt_pass = "test";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
@@ -36,7 +38,7 @@ void callback(char* topic, byte* payload, unsigned int length) {
 void reconnect() {
   while (!client.connected()) {
     Serial.print("Attempting MQTT connection...");
-    if (client.connect("ESP32Client")) {
+    if (client.connect("ESP32Client",mqtt_user,mqtt_pass)) {
       Serial.println("connected");
       client.subscribe("your/topic"); // สมัครรับข้อมูลจาก topic ที่ต้องการ
     } else {

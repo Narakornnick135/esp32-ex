@@ -24,7 +24,7 @@
 - ฟีเจอร์ที่ 2
 
 
-<!-- นี่คือคอมเมนต์ที่จะไม่แสดงใน README -->
+<!-- นี่คือคอมเมนต์ที่จะไม่แสดงใน README 
 
 ใช้ `inline code` สำหรับข้อความภายในบรรทัด.
 
@@ -45,3 +45,5 @@ console.log('Hello, world!');
 ![This is an image](https://example.com/path/to/image.jpg)
 
 ![Alt text](/path/to/image.jpg)
+
+-->

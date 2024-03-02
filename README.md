@@ -7,8 +7,9 @@
 - [ติดตั้งเครื่องมือเขียน App (Flutter)](ติดตั้ง/flutter.md)
 
 
-### ตัวอย่าง README พื้นฐาน
-
+### ตัวอย่าง พื้นฐาน
+- [การทำงาน ESP32](ESP32)
+<!--
 ```markdown
 
 ```
@@ -24,7 +25,7 @@
 - ฟีเจอร์ที่ 2
 
 
-<!-- นี่คือคอมเมนต์ที่จะไม่แสดงใน README -->
+
 
 ใช้ `inline code` สำหรับข้อความภายในบรรทัด.
 
@@ -45,3 +46,5 @@ console.log('Hello, world!');
 ![This is an image](https://example.com/path/to/image.jpg)
 
 ![Alt text](/path/to/image.jpg)
+
+-->

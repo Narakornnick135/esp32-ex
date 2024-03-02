@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ESP32 SPIFFS Web Server</title>
+</head>
+<body>
+    <h1>Hello from ESP32 SPIFFS!</h1>
+    <button id="toggleLED">Toggle LED</button>
+    
+</body>
+</html>
+
+<script>
+    document.getElementById('toggleLED').addEventListener('click', function() {
+    fetch('/toggle-led')
+        .then(response => response.text())
+        .then(data => console.log(data))
+        .catch(error => console.error('Error:', error));
+});
+
+</script>

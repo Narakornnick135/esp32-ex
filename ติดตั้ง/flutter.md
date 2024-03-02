@@ -28,4 +28,8 @@ https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flu
  
 ติดตั้ง Flutter
 กลับเข้าไปที่ C:\scr\flutter จะเห็นไฟล์ flutter_console.bat ให้เปิดไฟล์ดังกล่าวจะเห็น CMD ให้พิมพ์ flutter doctor
+
+หากไม่ได้ใช้ใช้คำสั่งนี้
+
+git config --global --add safe.directory C:/scr/flutter
  

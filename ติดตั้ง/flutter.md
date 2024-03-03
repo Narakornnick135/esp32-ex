@@ -32,4 +32,7 @@ https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flu
 หากไม่ได้ใช้ใช้คำสั่งนี้
 
 git config --global --add safe.directory C:/scr/flutter
+
+https://docs.flutter.dev/reference/flutter-cli
+
  
